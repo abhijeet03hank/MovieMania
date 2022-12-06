@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_8">@dimen/_6sdp</dimen>
+    <dimen name="margin_10">@dimen/_7sdp</dimen>
+    <dimen name="margin_12">@dimen/_9sdp</dimen>
+    <dimen name="margin_16">@dimen/_12sdp</dimen>
+    <dimen name="margin_20">@dimen/_17sdp</dimen>
+    <dimen name="margin_25">@dimen/_20sdp</dimen>
+    <dimen name="margin_30">@dimen/_24sdp</dimen>
+    <dimen name="margin_32">@dimen/_25sdp</dimen>
+
+    <!--text size in ssp-->
+    <dimen name="text_size_ssp">@dimen/_12ssp</dimen>
+    <dimen name="title_size_ssp">@dimen/_14ssp</dimen>
+    <dimen name="small_subtext_size_ssp">@dimen/_10ssp</dimen>
+    <dimen name="text_20_ssp">@dimen/_17ssp</dimen>
+</resources>
